@@ -6,6 +6,7 @@ To explain through market chains, I would like to share a real-life example with
 
 # Business Problem
 The dataset named Online Retail II is a UK-based online sale.Store's sales between 01/12/2009 - 09/12/2011.The product catalog of this company includes souvenirs.Promotion can be considered as products.There is also information that most of its customers are wholesalers.
+
 We would like to make recommendations to customers at the basket stage.There are 5 steps for this analysis.
 
 - Data Preprocessing
