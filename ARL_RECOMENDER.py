@@ -1,5 +1,5 @@
 ############################################
-# ASSOCIATION RULE LEARNING (BİRLİKTELİK KURALI ÖĞRENİMİ)
+# ASSOCIATION RULE LEARNING
 ############################################
 
 ############## Case ##############
@@ -135,6 +135,3 @@ def arl_recommender(rules_df, product_id, rec_count=1):
 check_id(df_de, 23235) # ['STORAGE TIN VINTAGE LEAF']
 arl_recommender(rules, 23235, 1)
 arl_recommender(rules, 23235, 2) # ['SPACEBOY BIRTHDAY CARD']
-
-
-
